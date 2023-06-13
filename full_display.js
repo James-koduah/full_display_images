@@ -4,8 +4,6 @@
 let head = document.getElementById('head')
 head.innerHTML += `
 <link rel="stylesheet" href="https://james-koduah.github.io/full_display_images/display_pictures.css">
-<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 `
 let body = document.getElementById('body')
 body.innerHTML += `
