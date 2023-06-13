@@ -10,6 +10,7 @@
     align-items: center;
     z-index: -39;
     overflow-y: auto;
+    color: white;
 }
 
 #full_display_pic{
