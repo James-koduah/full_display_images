@@ -38,6 +38,7 @@
     right: 2vw;
 }
 #close_button{
+    display: block;
     width: 80%;
     height: 80%;
 }
@@ -53,6 +54,7 @@
     justify-content: flex-start;
 }
     #full_display_previous_button{
+        display: block;
         width: 7vh;
         height: 7vh;
     }
@@ -68,6 +70,7 @@
     justify-content: flex-end;
 }
     #full_display_next_button{
+        display: block;
         width: 7vh;
         height: 7vh;
     }
