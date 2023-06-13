@@ -2,7 +2,7 @@
  * Add to dom
  */
 
-let body = document.getElementById('body')
+let body = document.document.getElementsByTagName('body')[0]
 body.innerHTML += `
 <!---->
 <!---->
