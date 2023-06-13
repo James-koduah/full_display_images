@@ -2,12 +2,9 @@
  * Add to dom
  */
 let head = document.getElementById('head')
-head.innerHTML += `
-<link rel="stylesheet" href="https://james-koduah.github.io/full_display_images/display_pictures.css">
-`
 let body = document.getElementById('body')
 body.innerHTML += `
-
+<link rel="stylesheet" href="https://james-koduah.github.io/full_display_images/display_pictures.css">
 <!---->
 <!--Injected By Full_display.js !Start-->
 <sub>
