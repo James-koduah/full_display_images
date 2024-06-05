@@ -4,4 +4,4 @@ This is very handy for websites where you have images that you would like to cli
 
 
 ## To use, add this script to your website
-```<script src='https://james-koduah.github.io/full_display_images/full_display.js'></script>```
+```<script src='https://james-koduah.github.io/full_display_images/app.js'></script>```

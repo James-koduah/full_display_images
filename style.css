@@ -41,7 +41,7 @@
     width: 80%;
     height: 80%;
 }
-#full_display_previous {
+#full_image_display_prev321 {
     position: absolute;
     width: 30vw;
     height: 90vh;
@@ -52,14 +52,14 @@
     align-items: center;
     justify-content: flex-start;
 }
-#full_display_previous svg{
+#full_image_display_prev321 svg{
     display: block;
     width: 50px;
     height: 50px;
     color: #fff;
     margin-left: 10px;
 }
-#full_display_next {
+#full_image_display_next321 {
     position: absolute;
     width: 30vw;
     height: 90vh;
@@ -70,7 +70,7 @@
     align-items: center;
     justify-content: flex-end;
 }
-#full_display_next svg{
+#full_image_display_next321 svg{
     display: block;
     width: 50px;
     height: 50px;
