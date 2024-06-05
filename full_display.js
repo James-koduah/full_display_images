@@ -8,7 +8,7 @@ document.getElementsByTagName( "head" )[0].appendChild( link );
 /**
  * Add the html elements to the page
  */
-let body = document.getElementById('body')
+let body = document.body
 body.innerHTML += `
 <link rel="stylesheet" href="https://james-koduah.github.io/full_display_images/display_pictures.css">
 <!---->
