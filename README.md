@@ -15,9 +15,9 @@ fullImageDisplay - Function to display images in full screen
     @slide: Boolean | Next and previous functionality - Allows users to cycle through all the selected images like a carousel. <true> by default.
 }
 ```
-\n\n
-### Examples\n
-**Example 1**\n
+<br>
+### Examples<br>
+**Example 1**<br>
 This will select all images with the class name 'products'. 
 The user in full screen mode would be able to navigate and see all other selected images.
 
@@ -28,9 +28,9 @@ let args = {
 }
 fullImageDisplay(args)
 ```
-\n\n
+<br>
 
-**Example 2**\n
+**Example 2**<br>
 This will select all image elements in the webpage, including logos.
 With slide set to false, the user can only see the image they clicked on and can't navigate to others.
 ```
