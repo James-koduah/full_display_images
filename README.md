@@ -11,8 +11,8 @@ This is very handy for websites where you have images that you would like to cli
 ```
 fullImageDisplay - Function to display images in full screen
 @param args: Object {
-    @className: String | By default all image elements will be selected. Specify a class to choose which group of images are selected.
-    @slide: Boolean | Next and previous functionality - Allows users to cycle through all the selected images like a carousel. <true> by default.
+    className: String | By default all image elements will be selected. Specify a class to choose which group of images are selected.
+    slide: Boolean | Next and previous functionality - Allows users to cycle through all the selected images like a carousel. <true> by default.
 }
 ```
 ### Examples <br>
